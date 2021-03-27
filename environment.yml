@@ -1,0 +1,11 @@
+name: streamlit-vessel-segmentation
+channels:
+  - pytorch
+  - conda-forge
+dependencies:
+  - pytorch
+  - torchvision
+  - scipy
+  - streamlit
+  - pip:
+    - opencv-python
