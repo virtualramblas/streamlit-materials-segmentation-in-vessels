@@ -1,5 +1,3 @@
-
-import scipy.misc as misc
 import torch
 import copy
 import torchvision.models as models
